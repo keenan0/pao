@@ -1,4 +1,4 @@
-package org.lab5.ex1;
+package org.teme_lab5.ex1;
 
 public class OutTask implements Task {
     private String message;

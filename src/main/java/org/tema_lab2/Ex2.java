@@ -1,5 +1,4 @@
-package tema_lab2;
-
+package org.tema_lab2;
 
 /*
 2. Implementati o aplicatie Java in care:
@@ -19,7 +18,7 @@ exemplu:
 import java.util.Arrays;
 import java.util.Random;
 
-public class ex2 {
+public class Ex2 {
     private static int[] a;
     private static int[] b;
 

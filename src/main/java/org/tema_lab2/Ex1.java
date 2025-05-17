@@ -1,4 +1,4 @@
-package tema_lab2;
+package org.tema_lab2;
 
 /*
 1. Implementati o aplicatie Java in care:
@@ -13,7 +13,7 @@ exemplu: Input: [2, 4, 1, 5, 3]
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class ex1 {
+public class Ex1 {
     private static int n;
     private static int[] arr;
 

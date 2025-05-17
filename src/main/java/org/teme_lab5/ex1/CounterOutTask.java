@@ -1,4 +1,4 @@
-package org.lab5.ex1;
+package org.teme_lab5.ex1;
 
 public class CounterOutTask implements Task {
     static private int counter = 0;

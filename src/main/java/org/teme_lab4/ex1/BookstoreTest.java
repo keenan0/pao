@@ -1,4 +1,4 @@
-package org.ex1;
+package org.teme_lab4.ex1;
 
 import java.util.ArrayList;
 import java.util.HashSet;

@@ -1,4 +1,4 @@
-package org.ex2;
+package org.teme_lab4.ex2;
 
 import java.util.ArrayList;
 import java.util.Random;

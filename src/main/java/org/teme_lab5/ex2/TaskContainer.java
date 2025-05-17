@@ -1,6 +1,6 @@
-package org.lab5.ex2;
+package org.teme_lab5.ex2;
 
-import org.lab5.ex1.Task;
+import org.teme_lab5.ex1.Task;
 
 public interface TaskContainer {
     void push(Task t);

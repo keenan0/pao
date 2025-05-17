@@ -1,4 +1,4 @@
-package org.ex1;
+package org.teme_lab4.ex1;
 
 /*
 c. Creați o clasă nouă, BookstoreCheck, ce va conține două metode:

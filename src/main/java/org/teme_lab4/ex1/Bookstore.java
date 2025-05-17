@@ -1,4 +1,4 @@
-package org.ex1;
+package org.teme_lab4.ex1;
 
 /*
 a. Creați un proiect nou cu numele Bookstore si urmatoarele clase:

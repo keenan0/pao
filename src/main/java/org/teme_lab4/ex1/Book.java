@@ -1,4 +1,4 @@
-package org.ex1;
+package org.teme_lab4.ex1;
 
 public class Book {
     private int MAX_PAGE_COUNT = 1000;

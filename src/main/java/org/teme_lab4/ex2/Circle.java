@@ -1,4 +1,4 @@
-package org.ex2;
+package org.teme_lab4.ex2;
 
 public class Circle extends Form {
     private float radius;
